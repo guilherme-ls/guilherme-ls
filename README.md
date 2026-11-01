@@ -9,7 +9,7 @@ I am Guilherme Lorete Schmidt, currently in my third year in Télécom Paris' en
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ls&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </div>
 
-## My favorite projects
+## Relevant projects
 
-- **Assembly Labyrinth:** I created an entire 3D rendered first person labyrinth game in assembly, running on the ICMC CPU;
-- **Baba is You:** I recreated the puzzle game Baba is You in Java, as a project to learn OOP;
+- **Telecom project:** I fully designed and modelled a complete Telecom random access network in Matlab, including optical communications and information theory analysis;
+- **Ring resonator:** I analyzed the methodology to design a PIC ring resonator to act as a WDM filter. Will soon proceed with digitally simulating the circuit in tools like Ansys Lumerical;
